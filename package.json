@@ -12,6 +12,7 @@
     "quill-cursors": "^4.0.2",
     "quill-emoji": "^0.2.0",
     "quill-focus": "^1.1.2",
+    "quill-html-edit-button": "^2.2.13",
     "quill-paste-smart": "^1.4.12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
